@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch Spec Writer"
+  short_description: "Turn requirements into complete batch program specs"
+  default_prompt: "Use $batch-spec-writer to turn my prompt or requirement.md into a complete batch program specification."
